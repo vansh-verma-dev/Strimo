@@ -1,0 +1,107 @@
+
+[
+  {
+    "id": 1,
+    "title": " BUY BGMI UC",
+    "subtitle": "Unknown Cash",
+    "category": "Game Currency",
+    "game": "BGMI",
+    "price": 99,
+    "originalPrice": 120,
+    "discount": 18,
+    "image": "https://i.pinimg.com/736x/6c/e2/20/6ce2202655ea90727119037ab4362c1c.jpg",
+    "badge": "Popular",
+    "buttonText": "Buy Now"
+  },
+  {
+    "id": 2,
+    "title": "Free Fire Diamonds",
+    "subtitle": "Diamonds Top-up",
+    "category": "Game Currency",
+    "game": "Free Fire",
+    "price": 80,
+    "originalPrice": 100,
+    "discount": 20,
+    "image": "https://i.pinimg.com/736x/7b/56/68/7b56688f6af685a41d10ec608aa7507b.jpg",
+    "badge": "Hot Deal",
+    "buttonText": "Buy Now"
+  },
+  {
+    "id": 3,
+    "title": "Google Play Gift Code",
+    "subtitle": "Google Play Balance",
+    "category": "Gift Card",
+    "game": "Google Play",
+    "price": 100,
+    "originalPrice": 100,
+    "discount": 0,
+    "image": "https://i.pinimg.com/1200x/f6/b1/f6/f6b1f6cab2fd7ff2d77fd69deab00d6b.jpg",
+    "badge": "Digital Code",
+    "buttonText": "Buy Now"
+  },
+  {
+    "id": 4,
+    "title": "Steam Gift Card",
+    "subtitle": "Add funds to Steam Wallet",
+    "category": "Gift Card",
+    "game": "Steam",
+    "price": 250,
+    "originalPrice": 250,
+    "discount": 0,
+    "image": "https://i.pinimg.com/736x/d5/fa/b7/d5fab7064e7a7bfaa9ae164ad146d736.jpg",
+    "badge": "PC Gaming",
+    "buttonText": "Buy Now"
+  },
+  {
+    "id": 5,
+    "title": "Roblox Gift Card",
+    "subtitle": "Roblox Credit",
+    "category": "Gift Card",
+    "game": "Roblox",
+    "price": 200,
+    "originalPrice": 250,
+    "discount": 20,
+    "image": "https://i.pinimg.com/1200x/f6/b1/f6/f6b1f6cab2fd7ff2d77fd69deab00d6b.jpg",
+    "badge": "Special Offer",
+    "buttonText": "Buy Now"
+  },
+  {
+    "id": 6,
+    "title": "Gaming Headphones",
+    "subtitle": "Immersive Gaming Audio",
+    "category": "Accessories",
+    "game": "Gaming Gear",
+    "price": 799,
+    "originalPrice": 999,
+    "discount": 20,
+    "image": "/images/gaming-headphones.png",
+    "badge": "Best Seller",
+    "buttonText": "Shop Now"
+  },
+  {
+    "id": 7,
+    "title": "Gaming Mouse",
+    "subtitle": "RGB Gaming Mouse",
+    "category": "Accessories",
+    "game": "Gaming Gear",
+    "price": 499,
+    "originalPrice": 599,
+    "discount": 17,
+    "image": "/images/gaming-mouse.png",
+    "badge": "Trending",
+    "buttonText": "Shop Now"
+  },
+  {
+    "id": 8,
+    "title": "PlayStation Gift Card",
+    "subtitle": "PlayStation Store Credit",
+    "category": "Gift Card",
+    "game": "PlayStation",
+    "price": 500,
+    "originalPrice": 500,
+    "discount": 0,
+    "image": "/images/playstation-card.png",
+    "badge": "Console Gaming",
+    "buttonText": "Buy Now"
+  }
+]

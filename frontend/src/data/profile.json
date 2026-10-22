@@ -1,0 +1,76 @@
+{
+  "id": 1,
+  "name": "Aarav Sharma",
+  "username": "clutchking",
+  "avatar": "https://i.pravatar.cc/300?img=12",
+  "banner": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1600",
+  "verified": true,
+  "isLive": false,
+  "bio": "BGMI player and streamer from Delhi. 1v4 clutches, sniper montages and late-night squad games. Live every evening at 9 PM!",
+  "location": "Delhi, India",
+  "joinedAt": "March 2024",
+  "links": [
+    { "label": "YouTube", "url": "https://youtube.com" },
+    { "label": "Instagram", "url": "https://instagram.com" }
+  ],
+  "stats": {
+    "followers": 245000,
+    "following": 312,
+    "reels": 48,
+    "likes": 1840000
+  },
+  "games": ["BGMI", "Valorant", "Free Fire", "COD Mobile"],
+  "wallet": {
+    "coins": 12450,
+    "level": 14,
+    "levelProgress": 68
+  },
+  "badges": [
+    { "id": 1, "label": "Top Creator", "description": "Ranked in the top 1% this month" },
+    { "id": 2, "label": "100K Club", "description": "Reached 100,000 followers" },
+    { "id": 3, "label": "Clutch Master", "description": "10 reels with 20K+ likes" },
+    { "id": 4, "label": "Early Member", "description": "Joined Strimo in its first year" }
+  ],
+  "reels": [
+    { "id": 1, "thumbnail": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=600", "views": 185000, "likes": 24500 },
+    { "id": 2, "thumbnail": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=600", "views": 142000, "likes": 18200 },
+    { "id": 3, "thumbnail": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=600", "views": 156000, "likes": 19800 },
+    { "id": 4, "thumbnail": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=600", "views": 98000, "likes": 12700 },
+    { "id": 5, "thumbnail": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=600", "views": 267000, "likes": 32100 },
+    { "id": 6, "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600", "views": 74000, "likes": 9300 }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title": "Full match: Chicken dinner with squad in Erangel",
+      "game": "BGMI",
+      "thumbnail": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800",
+      "views": 482000,
+      "duration": "18:42",
+      "createdAt": "3 days ago"
+    },
+    {
+      "id": 2,
+      "title": "Best sensitivity settings for 2026",
+      "game": "BGMI",
+      "thumbnail": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800",
+      "views": 231000,
+      "duration": "09:15",
+      "createdAt": "1 week ago"
+    },
+    {
+      "id": 3,
+      "title": "Valorant ranked grind: Road to Immortal",
+      "game": "Valorant",
+      "thumbnail": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=800",
+      "views": 126000,
+      "duration": "42:08",
+      "createdAt": "2 weeks ago"
+    }
+  ],
+  "liked": [
+    { "id": 1, "thumbnail": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=600", "views": 398000, "likes": 41200 },
+    { "id": 2, "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600", "views": 88000, "likes": 11500 },
+    { "id": 3, "thumbnail": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=600", "views": 215000, "likes": 27800 }
+  ]
+}
