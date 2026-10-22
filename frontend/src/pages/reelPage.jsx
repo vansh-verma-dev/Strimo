@@ -10,9 +10,9 @@ import {
   FaGamepad,
   FaEye,
 } from "react-icons/fa";
-import BottomNav from "../components/BottomNav";
-import Sidebar from "../components/Sidebar";
-import Navbar from "../components/Navbar";
+import BottomNav from "../components/bottomNav";
+import Sidebar from "../components/sidebar";
+import Navbar from "../components/navbar";
 import vedioData from "../data/reels.json";
 
 // 12450 -> 12.5K, 1200000 -> 1.2M

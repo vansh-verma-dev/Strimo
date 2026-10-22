@@ -1,7 +1,7 @@
 import { Outlet } from "react-router";
-import BottomNav from "../components/BottomNav";
+import BottomNav from "../components/bottomNav";
 import Sidebar from "../components/sidebar";
-import Navbar from "../components/Navbar";
+import Navbar from "../components/navbar";
 import VedioSection from "../components/vedioPage";
 import OfferSection from "../components/offer";
 import StreamerSection from "../components/strimer";
@@ -23,7 +23,7 @@ function HomePage() {
         </main>
       </div>
 
-      <BottomNav />
+      <BottomNav/>
     </div>
   );
 }
